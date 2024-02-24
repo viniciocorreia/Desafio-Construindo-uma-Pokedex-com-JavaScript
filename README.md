@@ -1,4 +1,4 @@
-## Desafio: Classificador de nível de héroi
+## Desafio: Construindo uma Pokedex com JavaScript
 
 Através do Bootcamp: Javascript Developer (Pela plataforma DIO), foi proposto pelo instrutor Renan Johannsen durante o módulo do curso "JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática" a elaboração em Javascript de uma Pokedex.
 
